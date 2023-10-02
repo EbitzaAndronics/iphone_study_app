@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499532365198",
+    "project_id": "iphone-study",
+    "storage_bucket": "iphone-study.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499532365198:android:34c568b8c03e762233b8df",
+        "android_client_info": {
+          "package_name": "com.example.iphone_study_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMuJLpIcIAk0NeKyukAT_pIlnJ1D693c0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
